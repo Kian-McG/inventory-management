@@ -83,8 +83,7 @@ const Sidebar = () => {
         }`}
       >
         <Image
-        //   src="https://s3-inventorymanagement.s3.us-east-2.amazonaws.com/logo.png"
-            src="/logo.png"
+          src="https://s3-inventorymanagement-km.s3.eu-west-2.amazonaws.com/product1.png/logo(1).png"
           alt="kian-logo"
           width={27}
           height={27}
