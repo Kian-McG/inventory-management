@@ -1,0 +1,1 @@
+Small little inventory manangement system utilizing a nextjs frontend with a node backend and postgresql database, all hosted on AWS. Makes use of cool ui libraries to present the data in visually appealing ways. 
